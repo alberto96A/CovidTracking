@@ -5,10 +5,14 @@ name = "pypi"
 
 [packages]
 requests = "*"
-jupyter = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+openpyxl = "*"
+jupyter = "*"
+bokeh = "*"
+ipython = "*"
+tabulate = "*"
 
 [dev-packages]
 
